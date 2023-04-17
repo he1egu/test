@@ -1,0 +1,5 @@
+git add .
+git commit -m "soobzhenie"
+git init 
+git push
+git pull
